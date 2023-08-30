@@ -115,7 +115,6 @@ body {
 
 .section_one_button {
   background-color: var(--iris);
-  font-family: 'Roboto';
   cursor: pointer;
   color: var(--ultrawhite);
   font-size: 16px;
