@@ -10,7 +10,7 @@
 }
 
 body {
-  font-family: "Roboto", sans-serif; 
+  font-family: 'Roboto', sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -111,16 +111,9 @@ body {
   line-height: 1.07; /* 107.143% */
   letter-spacing: 0.02em;
 }
- .section_one_button_div{
-    font-family: Roboto; 
-    font-size: 16px;
-    font-style: normal;
-    font-weight: 500;
-    line-height: 24px; /* 150% */
-    letter-spacing: 0.64px;
- }
 
 .section_one_button {
+  font-family: Roboto;
   background-color: var(--iris);
   font-weight: 500;
   cursor: pointer;
