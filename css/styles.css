@@ -113,7 +113,7 @@ body {
 }
 
 .section_one_button {
-  font-family: Roboto;
+  font-family: Roboto, sans-serif;
   background-color: var(--iris);
   font-weight: 500;
   cursor: pointer;
